@@ -87,9 +87,9 @@ void readFile(std::string username, std::string password, long double* balance)
 
         }
     }
-    else {
-        std::cout << "Error opening file";
-
+    else
+    {
+        std::cout << "Error opening file!\n";
     }
 }
 
