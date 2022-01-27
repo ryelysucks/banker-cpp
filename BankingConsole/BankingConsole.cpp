@@ -84,7 +84,6 @@ void readFile(std::string username, std::string password, long double* balance)
                 logUser(&user, userpass);
                 setup();
             }
-
         }
     }
     else
